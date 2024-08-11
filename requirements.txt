@@ -1,0 +1,9 @@
+waybar
+hyprcursor
+hyprland
+hyprlang
+hyprutils
+xdg-desktop-portal-hyprland
+xdg-desktop-portal
+xdg-desktop-portal-hyprland
+xdg-desktop-portal-wlr
