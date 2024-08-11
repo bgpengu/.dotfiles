@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Winbox
+Path=/home/user/apps/wine
+Exec=/usr/bin/wine64 winbox64.exe
+Icon=winbox
+Terminal=false
+Categories=Network
+Keywords=winbox

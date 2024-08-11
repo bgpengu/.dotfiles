@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Discord
+Path=/home/user/apps/appimages
+Exec=vesktop.AppImage --enable-features=UseOzonePlatform --ozone-platform=wayland
+Icon=discord
+Terminal=false
+Categories=Network
+Keywords=discord;vesktop
