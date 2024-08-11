@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Waterfox
+Path=/home/user/apps/waterfox
+Exec=waterfox --enable-features=UseOzonePlatform --ozone-platform=wayland
+Icon=waterfox
+Terminal=false
+Categories=Network
+Keywords=waterfox,browser
